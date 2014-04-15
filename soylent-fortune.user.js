@@ -2,7 +2,7 @@
 // @name        soylent-fortune
 // @namespace   soylent-fortune
 // @description soylent-fortune
-// @include     soylentnews.org
+// @include     *soylentnews.org/*
 // @include     file:///home/marco/*
 // @version     1
 // @grant       none
