@@ -8,7 +8,7 @@
 // @grant       none
 // ==/UserScript==
 
-//alert (1234);
+//alert (12345);
 
 
 function friendSymbol() {
