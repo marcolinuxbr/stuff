@@ -57,4 +57,5 @@ $('div.entry-featured-image').each(function(i, obj) {
   }
 });
 
+$('div.widget-area').remove();
 
