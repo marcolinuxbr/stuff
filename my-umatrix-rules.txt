@@ -1,0 +1,81 @@
+https-strict: yahoo.com true
+matrix-off: about-scheme true
+matrix-off: behind-the-scene true
+matrix-off: chrome-extension-scheme true
+matrix-off: chrome-scheme true
+matrix-off: localhost true
+matrix-off: opera-scheme true
+referrer-spoof: yahoo.com true
+ua-spoof: * true
+* * * block
+* * css allow
+* * frame block
+* * image allow
+* 1st-party * allow
+* 1st-party frame allow
+youtube.com * frame inherit
+* googlevideo.com * allow
+* googlevideo.com frame allow
+* s.ytimg.com * allow
+* s.ytimg.com frame allow
+* www.youtube.com * allow
+* youtube.com * allow
+* ytimg.com * allow
+* ytimg.com frame allow
+bzarg.com * frame inherit
+bzarg.com cdn.mathjax.org * allow
+bzarg.com fonts.googleapis.com * allow
+bzarg.com gravatar.com * allow
+bzarg.com gstatic.com * allow
+bzarg.com mathjax.org * allow
+bzarg.com s.youtube.com * inherit
+bzarg.com s.ytimg.com * allow
+bzarg.com www.youtube.com * allow
+bzarg.com youtube.com * allow
+bzarg.com ytimg.com * allow
+google.com googleusercontent.com * allow
+google.com gstatic.com * allow
+googleblog.com * frame inherit
+googleblog.com ajax.googleapis.com * allow
+googleblog.com apis.google.com * allow
+googleblog.com blogblog.com * allow
+googleblog.com blogger.com * allow
+googleblog.com bp.blogspot.com * allow
+googleblog.com fonts.googleapis.com * allow
+googleblog.com google.com * allow
+googleblog.com googleusercontent.com * allow
+googleblog.com gstatic.com * allow
+googleblog.com s.youtube.com * inherit
+googleblog.com s.ytimg.com * allow
+googleblog.com www.youtube.com * allow
+googleblog.com youtube.com * allow
+googleblog.com ytimg.com * allow
+knowyourmeme.com bounceexchange.com * allow
+knowyourmeme.com chartbeat.com * inherit
+knowyourmeme.com kym-cdn.com * allow
+mozilla.org * frame inherit
+mozilla.org addons.cdn.mozilla.net * allow
+mozilla.org cdn.mozilla.net * allow
+mozilla.org google.com * allow
+mozilla.org mozilla.net * allow
+mozilla.org www.google.com * allow
+techcrunch.com s.ytimg.com * allow
+techcrunch.com s.ytimg.com frame allow
+techcrunch.com www.youtube.com * allow
+techcrunch.com www.youtube.com frame allow
+techcrunch.com youtube.com * allow
+techcrunch.com youtube.com frame allow
+techcrunch.com ytimg.com * allow
+techcrunch.com ytimg.com frame allow
+trtsp.jus.br s.ytimg.com * allow
+trtsp.jus.br s.ytimg.com frame allow
+trtsp.jus.br www.youtube.com * allow
+trtsp.jus.br www.youtube.com frame allow
+trtsp.jus.br youtube.com * allow
+trtsp.jus.br youtube.com frame allow
+trtsp.jus.br ytimg.com * allow
+trtsp.jus.br ytimg.com frame allow
+yahoo.com * frame inherit
+yahoo.com s.yimg.com * allow
+yahoo.com yimg.com * allow
+
