@@ -20,8 +20,13 @@ youtube.com * frame inherit
 * s.ytimg.com frame allow
 * www.youtube.com * allow
 * youtube.com * allow
+* youtube.com frame allow
 * ytimg.com * allow
 * ytimg.com frame allow
+* vimeo.com * allow
+* vimeocdn.com * allow
+* vimeo.com frame allow
+* vimeocdn.com frame allow
 bzarg.com * frame inherit
 bzarg.com cdn.mathjax.org * allow
 bzarg.com fonts.googleapis.com * allow
